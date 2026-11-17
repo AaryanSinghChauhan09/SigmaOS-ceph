@@ -3,7 +3,7 @@ name = "SigmaOS-ceph"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ceph component"
+description = "Ceph"
 upstream = []
 
 [contract]
